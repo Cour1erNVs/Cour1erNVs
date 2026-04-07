@@ -26,3 +26,4 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 ![Cyber](https://img.shields.io/badge/Cyber-Offensive-red?style=for-the-badge)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Cyber+Operations+Student;GoSpoof+Developer;Red+Team+Tool+Builder)](https://git.io/typing-svg)
