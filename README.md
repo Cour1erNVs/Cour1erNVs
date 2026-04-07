@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Ivan Casamalhuapa
 
-<!--
-**Cour1erNVs/Cour1erNVs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Cyber Operations @ Dakota State University  
+🔐 Focus: Red Teaming | Network Security 
+⚡ Building: SDR Forge
+🛠️ Maintaning: GoSpoof
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- 🔥 GoSpoof → Port spoofing + deception tool (Golang)
+- 📡 SDRForge → SDR learning
+- 🛜 WiFiForge → Wireless attack simulation (BHIS)
+
+---
+
+## 🧠 Skills
+- Languages: Go, Python, Bash, C, Nim
+- Tools: Wireshark, Ghidra, Metasploit, Nmap
+- Systems: Linux, Proxmox, VMware, Windows
+
+---
+
+## 📊 Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cour1erNVs&show_icons=true&theme=tokyonight)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![Cyber](https://img.shields.io/badge/Cyber-Offensive-red?style=for-the-badge)
