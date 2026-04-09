@@ -21,8 +21,7 @@
 
 ---
 
-## 📊 Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cour1erNVs&show_icons=true&theme=tokyonight&cache_seconds=1800)
+
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 ![Cyber](https://img.shields.io/badge/Cyber-Offensive-red?style=for-the-badge)
